@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.vr_base-14830424.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "E:/WORK_3D/projects/Unreal Projects/VR_Base/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "VR_Base-14830424 [UE Editor]"
+				}
+			}
+		}
+	]
+}
